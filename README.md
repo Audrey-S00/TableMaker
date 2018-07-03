@@ -17,6 +17,10 @@ To create tables using data from different file versions
   - User inputs any file of any type
   - returns a table that organizes the data
   
+# version *1* wishlist
+  - read a general file (.dat)
+  - create a table with the data in that file
+  
 # version *0* wishlist
   - read a specific file (.dat)
   - create a table with the data in that file
